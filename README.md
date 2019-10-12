@@ -1,4 +1,3 @@
-README.txt
 Simple program to solve an instance of the 15 puzzle.
 Program will prompt user for (s/u), indicating if the test puzzle is or is not solvable.
 Program will test if puzzle is solvable.
