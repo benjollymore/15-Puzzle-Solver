@@ -3,7 +3,7 @@
 A C++ program that solves the 15 puzzle,
 or refuses to do so if it deems it unsolvable.
 Tested on Ubuntu 18.04 and compiled in g++
-Admissably far from my best work.
+Admissably, this is far from my best work.
 Ben Jollymore
 2019-02-01
 */
